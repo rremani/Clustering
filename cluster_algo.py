@@ -52,4 +52,3 @@ print values,ids
 print len(np.unique(ids))
 plt.plot(newY,newX,"ro")
 plt.show()
-
